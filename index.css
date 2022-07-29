@@ -1,0 +1,10 @@
+form{
+    color:rgba(9, 8, 10, 0.744);
+    background:rgb(214, 200, 216)
+}
+h1{
+    text-align:center;
+    text-decoration: underline;
+    text-transform: initial;
+    text-decoration-color: firebrick;
+}
